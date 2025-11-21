@@ -1,0 +1,10 @@
+/* src/index.css */
+
+/*
+  These are the only lines needed.
+  Tailwind's @tailwind base directive replaces the default Vite styles, 
+  handling things like font-family, margin, and reset.
+*/
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
